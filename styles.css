@@ -2,3 +2,10 @@ h1 {
     color: blue;
     font-style: italic;
 }
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
